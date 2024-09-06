@@ -1,8 +1,6 @@
 # [tip] Partner Meetup 
 
 
-[TOC]
-
 ## 설치 옵션과 라이센스 변경
 
 - On-Prem or Cloud
