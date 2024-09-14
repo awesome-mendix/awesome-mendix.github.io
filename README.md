@@ -2,4 +2,4 @@
 
 ## Posts
 
-[Docker Build Pack](./_posts/docker_build_pack.md)
+[Docker Build Pack](./posts/docker_build_pack.md)
