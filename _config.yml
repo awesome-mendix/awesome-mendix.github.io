@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default"
 title: awesome mendix
 longtitle : awesome mendix
 description: Bookmark this to keep an eye on my project updates!
