@@ -1,4 +1,4 @@
-theme: minimal-mistakes-jekyll
+remote-theme: mmistakes/minimal-mistakes
 title: awesome mendix
 longtitle : awesome mendix
 description: Bookmark this to keep an eye on my project updates!
