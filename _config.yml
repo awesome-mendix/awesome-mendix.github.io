@@ -33,3 +33,7 @@ plugins:
   - jekyll-readme-index
   - jemoji
   - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
