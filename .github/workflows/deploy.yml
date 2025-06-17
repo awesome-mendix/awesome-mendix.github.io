@@ -40,6 +40,7 @@ jobs:
         with:
           node-version: 22
           cache: npm # 또는 pnpm / yarn
+          cache-dependency-path: subdir/package-lock.json
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
