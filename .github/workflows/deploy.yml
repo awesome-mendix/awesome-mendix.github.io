@@ -38,9 +38,8 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 20
           cache: npm # 또는 pnpm / yarn
-          check-latest: true # Node.js의 최신 LTS 버전을 사용하려면 true로 설정하세요.
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
