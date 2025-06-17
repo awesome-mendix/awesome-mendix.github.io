@@ -40,7 +40,6 @@ jobs:
         with:
           node-version: 22
           cache: npm # 또는 pnpm / yarn
-          cache-dependency-path: "./package-lock.json"
           check-latest: true # Node.js의 최신 LTS 버전을 사용하려면 true로 설정하세요.
       - name: Setup Pages
         uses: actions/configure-pages@v4
